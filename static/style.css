@@ -1,0 +1,23 @@
+.centered
+{
+text-align: center; }
+.large
+{
+font-size: large;
+}
+.medium
+{
+font-size: medium;
+}
+.small
+{
+font-size: small;
+}
+.style{
+    background-color: #4835c2;
+    font-family: Arial, sans-serif;
+}
+body 
+{   
+    color:aliceblue
+}
